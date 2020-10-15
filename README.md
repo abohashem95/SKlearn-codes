@@ -1,4 +1,4 @@
 # SKlearn-codes
 
-this repository for anyone has new start in SKlearn or anyone need some help in sklearn. 
+this repository for anyone have new start with SKlearn or anyone need some help in sklearn. 
 
